@@ -393,6 +393,29 @@
       }
     ]
   },
+  { 
+    "label": "Mouse keys",
+    "cols": 3,
+    "width": 2,
+    "keys": [
+      {
+        "keysym": "MS_UP",
+        "label": "Cursor Up"
+      },
+      {
+        "keysym": "MS_DOWN",
+        "label": "Cursor Down"
+      },
+      {
+        "keysym": "MS_LEFT",
+        "label": "Cursor Left"
+      },
+      {
+        "keysym": "MS_RIGHT",
+        "label": "Cursor Right"
+      }
+    ]
+  },
   {
     "label": "Symbols",
     "cols": 6,
